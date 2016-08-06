@@ -1,0 +1,17 @@
+﻿/*
+ Theme Name:   Divi Child
+ Description:  Helps you to easily custom editing your divi theme.
+ Author:       Jundell Q. Agbo
+ Author URI:   http://www.facebook.com/jundell.ictned.ph
+ Template:     Divi
+ Version:      2.7.8
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready, customize
+*/
+
+/* your Custom styles goes here */
+@import url("../Divi/style.css");
+@font-face{
+font-family: Lucida Calligraphy Italic;
+src: url('http://eventesten.info/sonja/wp-content/themes/Divi-child/fonts/Lucida Calligraphy Italic.ttf');
+font-weight: normal;
+}

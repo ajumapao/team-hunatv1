@@ -1,0 +1,1 @@
+jQuery(function($){$('#et-info-phone').wrap(function(){var num='09123456789';num=num.replace(/[^0-9+]+/g,'-');num=num.replace(/^[-]|[-]$/g,'');return'<a href="tel:'+num+'"></a>';});});
