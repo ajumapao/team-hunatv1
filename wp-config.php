@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'unionbank');
+define('DB_NAME', 'fejieeve_db');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'fejieeve_db');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', '?u_{gGoV(A+I');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
